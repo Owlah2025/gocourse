@@ -33,7 +33,7 @@ var playerGuess int
 	}else {
 		fmt.Println("the number is too high! try again")
 	}
-
+fmt.Println("********************************************************8")
 }
 }
 
