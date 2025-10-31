@@ -1,0 +1,10 @@
+Debug: 2025/10/31 18:31:13 logging.go:28: This is a debug message
+Debug: 2025/10/31 18:32:01 logging.go:28: This is a debug message
+DEBUG: 2025/10/31 18:42:48 logging.go:32: This is a debug message.
+WARN: 2025/10/31 18:42:48 This is a warning message.
+INFO: 2025/10/31 18:42:48 logging.go:34: This is an info mesage.
+ERROR: 2025/10/31 18:42:48 logging.go:35: This is an error.
+DEBUG: 2025/10/31 18:42:52 logging.go:32: This is a debug message.
+WARN: 2025/10/31 18:42:52 This is a warning message.
+INFO: 2025/10/31 18:42:52 logging.go:34: This is an info mesage.
+ERROR: 2025/10/31 18:42:52 logging.go:35: This is an error.
